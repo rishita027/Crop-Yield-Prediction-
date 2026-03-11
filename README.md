@@ -35,11 +35,6 @@ This project focuses on building a predictive system for agricultural crop yield
 4. **Model Saving:**
    - Saved the trained models (`dtr_model.pkl` and `knn_model.pkl`) and the preprocessing pipeline (`preprocesser.pkl`) using `pickle`.
   
-## Snapshot
-![model comperasion](https://github.com/user-attachments/assets/e771c9cd-e2c3-46c0-bf6a-a897753688e6)
-
-![user interface](https://github.com/user-attachments/assets/3a2a8337-ea74-473e-b57b-ac2d8b25a072)
-
 ## Conclusion
 The Decision Tree Regressor and K-Nearest Neighbors showed the most promise in accurately predicting crop yield based on historical data. The project demonstrates the utility of machine learning in agricultural yield prediction, which can assist farmers, policymakers, and agronomists in making informed decisions about crop production.
 
